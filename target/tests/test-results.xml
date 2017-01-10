@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="PhantomJS 2.1.1 (Windows 8 0.0.0)" package="" timestamp="2017-01-10T05:46:08" id="0" hostname="Desky" tests="4" errors="0" failures="0" time="0.049">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
+  </properties>
+  <testcase name="Component: Input will render Input from store" time="0.046" classname="Component: Input"/>
+  <testcase name="Component: Title will render message from store" time="0.002" classname="Component: Title"/>
+  <testcase name="State: title should return default state" time="0.001" classname="State: title"/>
+  <testcase name="State: title should return new state when changeTitle action is dispatched" time="0" classname="State: title"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
